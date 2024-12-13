@@ -1,0 +1,6 @@
+compose.yaml
+logs/
+target/
+dbt_packages/
+example 
+.user.yml
