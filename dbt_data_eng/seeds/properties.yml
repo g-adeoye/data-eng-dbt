@@ -1,0 +1,7 @@
+version: 2
+
+seeds:
+  - name: deals
+    config:
+      column_types:
+        amount: varchar(12)
